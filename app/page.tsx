@@ -54,7 +54,7 @@ export default function Home() {
               </button>
             </div>
           </div>
-          <p className="chatbot-text-secondary-inverse text-sm md:text-base mt-2 md:mt-4">Chatting with the Astra chatbot is a breeze! Simply type your questions or requests in a clear and concise manner. Responses are sourced from Astra documentation and a link for further reading is provided.</p>
+          <p className="chatbot-text-secondary-inverse text-sm md:text-base mt-2 md:mt-4">Hey there! Ask me anything you want about AP exams and I can help you out to the best of my abilities! I learned everything I know from various AP test prep books, so if you would like to learn from them as well, please navigate to the home page and go to AP resources. Happy studying!</p>
         </div>
         <div className='flex-1 relative overflow-y-auto my-4 md:my-6'>
           <div className='absolute w-full overflow-x-hidden'>
